@@ -1,5 +1,6 @@
 # Git 
 
  - feature-A
- -fix-B
+ - fix-B
  - feature-C
+ - feature-D
